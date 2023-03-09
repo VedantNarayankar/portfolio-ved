@@ -103,6 +103,16 @@ span{
 
 }
 
+.links{
+padding-bottom: 2rem;
+
+}
+.links a{
+  text-decoration: none;
+  color: #0ef;
+  margin-right: 15px;
+
+}
 p{
   padding-bottom: 2rem;
 }
